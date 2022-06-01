@@ -1,0 +1,15 @@
+/* heading */
+.heading {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 10rem;
+    box-shadow: var(--secondary-glow);
+    margin-bottom: 2rem;
+}
+
+.heading_title {
+    font-size: 2rem;
+    text-align: center;
+}

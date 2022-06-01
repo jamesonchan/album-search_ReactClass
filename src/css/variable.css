@@ -1,0 +1,16 @@
+:root {
+    --main-font-family: 'Montserrat', sans-serif;
+
+    --theme-color-primary: #f7a8bb;
+    --theme-color-secondary: #3A82EE;
+    --theme-color-light: #EEE;
+    --theme-color-dark: #313154;
+    --theme-color-grey: #8888;
+    --theme-color-danger: #ff5b57;
+
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+
+    --primary-glow: 0px 0px 4px rgba(234, 64, 164, 0.75);
+    --secondary-glow: 0px 2px 0px rgba(58, 130, 238, 0.75);
+
+}

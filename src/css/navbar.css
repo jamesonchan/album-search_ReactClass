@@ -1,0 +1,32 @@
+/* navbar */
+.navbar {
+    position: fixed;
+    top:0px;
+    width: 100%;
+    background-color: var(--theme-color-primary);
+    padding: 1.5rem;
+    z-index: 999;
+}
+
+.navbar_search-container {
+    position: relative;
+    display: flex;
+    background-color: var(--theme-color-light);
+    padding: .7rem;
+    width: 60%;
+    margin: auto;
+    border-radius: 1.5rem;
+}
+
+.navbar_searchbar {
+    display: flex;
+    background-color: var(--theme-color-light);
+    width: 100%;
+}
+
+.navbar_search-icon {
+    position: absolute;
+    width: 15px;
+    top: 7px;
+    right: 10px;
+}
